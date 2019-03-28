@@ -1,11 +1,17 @@
 
 This is a my first text file I created in Github
 
-star wars : A new Hope
-star wars : Empire strikes back
-star wars : return of the jedi
+Star Wars : A new Hope
+Star Wars : Empire strikes back
+Star Wars : return of the jedi
 
 version 1
 version 2
 
+turn off
+
+Done my changes.
+
 Final Copy
+
+
